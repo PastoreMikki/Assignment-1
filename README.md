@@ -5,4 +5,4 @@ Business Administration gives you the strategic edge, and Data Engineering equip
 - Market Sentiment Analyzer for Strategic Planning
 - Employee Performance and Retention Analytics Tool.
 
-Each of these projects not only strengthens your technical skills but also positions you to speak the language of business fluently, which is golden in the world of data engineering.
+Each of these projects not only strengthens my technical skills but also positions me to speak the language of business management fluently, which is golden in the world of data engineering.
